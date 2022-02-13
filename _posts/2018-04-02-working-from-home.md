@@ -1,8 +1,11 @@
 ---
+title: The Advantages & Disadvantages of Working from Home
+date: 2018-04-02 00:00:00 Z
+tags:
+- Startup
+- Tips
 layout: post
-title: 'The Advantages & Disadvantages of Working from Home'
-tags: [Startup, Tips]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/4.jpg
 author: nancy
 ---

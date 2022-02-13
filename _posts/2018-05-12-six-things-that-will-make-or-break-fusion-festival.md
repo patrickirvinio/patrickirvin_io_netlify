@@ -1,8 +1,11 @@
 ---
+title: Seven Things That Will Make Or Break Fusion Festival
+date: 2018-05-12 00:00:00 Z
+tags:
+- Music
+- Tips
 layout: post
-title: 'Seven Things That Will Make Or Break Fusion Festival'
-tags: [Music, Tips]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/5.jpg
 author: nancy
 ---

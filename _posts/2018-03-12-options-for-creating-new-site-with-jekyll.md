@@ -1,8 +1,12 @@
 ---
+title: Options for creating a new site with Jekyll
+date: 2018-03-12 00:00:00 Z
+tags:
+- Jekyll
+- Tips
+- Development
 layout: post
-title:  "Options for creating a new site with Jekyll"
-tags: [ Jekyll, Tips, Development  ]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/10.jpg
 author: nancy
 ---

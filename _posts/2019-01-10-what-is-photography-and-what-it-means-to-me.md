@@ -1,8 +1,11 @@
 ---
+title: What Is Photography and What It Means To Me
+date: 2019-01-10 00:00:00 Z
+tags:
+- Photography
+- Tips
 layout: post
-title: 'What Is Photography and What It Means To Me'
-tags: [Photography, Tips]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/1.jpg
 author: daniel
 featured: true
