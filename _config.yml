@@ -1,6 +1,6 @@
 ---
 title: Patrickirvin Io Netlify
-timezone: UTC
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -40,7 +40,7 @@ dribbble: username
 medium: "@username"
 instagram: username
 pinterest: username
-linkedin: username
+linkedin: admin@pcient.com
 navigation:
 - text: About
   url: "/about/"
