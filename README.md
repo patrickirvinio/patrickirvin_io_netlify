@@ -1,5 +1,6 @@
 # Curious Jekyll Theme v1.1.1
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2aabc0f0-023c-49df-a7b3-da523b6cd153/deploy-status)](https://app.netlify.com/sites/keen-roentgen-2f3a5d/deploys)
+
 [Theme Live Demo](https://curious-jekyll.netlify.com/)
 
 ## Features
