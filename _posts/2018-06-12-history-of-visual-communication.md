@@ -1,7 +1,10 @@
 ---
+title: The History of Visual Communication
+date: 2018-06-12 00:00:00 Z
+tags:
+- Design
+- Tips
 layout: post
-title: 'The History of Visual Communication'
-tags: [Design, Tips]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/2.jpg
 author: daniel

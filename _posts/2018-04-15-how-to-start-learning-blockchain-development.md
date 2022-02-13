@@ -1,8 +1,11 @@
 ---
+title: How To Start Learning Blockchain Development
+date: 2018-04-15 00:00:00 Z
+tags:
+- Tips
+- Development
 layout: post
-title:  "How To Start Learning Blockchain Development"
-tags: [ Tips, Development  ]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/3.jpg
 author: nancy
 ---

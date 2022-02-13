@@ -1,7 +1,9 @@
 ---
+title: Experience The Dramatic Landscape
+date: 2018-11-12 00:00:00 Z
+tags:
+- Photography
 layout: post
-title: 'Experience The Dramatic Landscape'
-tags: [Photography]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/14.jpeg
 author: daniel

@@ -1,8 +1,11 @@
 ---
+title: Advanced Markdown tips
+date: 2018-02-07 00:00:00 Z
+tags:
+- Jekyll
+- Tips
 layout: post
-title:  "Advanced Markdown tips"
-tags: [ Jekyll, Tips ]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/7.jpg
 author: daniel
 ---
