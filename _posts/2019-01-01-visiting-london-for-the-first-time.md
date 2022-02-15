@@ -1,8 +1,11 @@
 ---
+title: Visiting London for the First Time
+date: 2019-01-01 00:00:00 Z
+tags:
+- Photography
+- Travel
 layout: post
-title: 'Visiting London for the First Time'
-tags: [Photography, Travel]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/3.jpg
 author: daniel
 ---

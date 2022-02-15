@@ -1,7 +1,10 @@
 ---
+title: The Cutting Edge Architecture
+date: 2018-11-13 00:00:00 Z
+tags:
+- Architecture
+- Design
 layout: post
-title: 'The Cutting Edge Architecture'
-tags: [Architecture, Design]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/22.jpeg
 author: nancy

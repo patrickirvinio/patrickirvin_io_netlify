@@ -1,8 +1,10 @@
 ---
+title: Basic Rules For Walking In The Mountains
+date: 2019-01-02 00:00:00 Z
+tags:
+- Travel
 layout: post
-title: 'Basic Rules For Walking In The Mountains'
-tags: [Travel]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/6.jpg
 author: daniel
 ---

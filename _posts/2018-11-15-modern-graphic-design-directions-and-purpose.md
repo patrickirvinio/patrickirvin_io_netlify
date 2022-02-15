@@ -1,7 +1,10 @@
 ---
+title: Modern Graphic Design - Directions and Purpose
+date: 2018-11-15 00:00:00 Z
+tags:
+- Design
+- Tips
 layout: post
-title: 'Modern Graphic Design - Directions and Purpose'
-tags: [Design, Tips]
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2019/9.jpeg
 author: daniel

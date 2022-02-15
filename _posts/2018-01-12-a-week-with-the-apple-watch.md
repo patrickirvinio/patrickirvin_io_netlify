@@ -1,8 +1,11 @@
 ---
+title: A Week With the Apple Watch
+date: 2018-01-12 00:00:00 Z
+tags:
+- Tips
+- Minimal
 layout: post
-title:  "A Week With the Apple Watch"
-tags: [ Tips, Minimal ]
-featured_image_thumbnail:
+featured_image_thumbnail: 
 featured_image: assets/images/posts/2018/12.jpg
 author: daniel
 ---
