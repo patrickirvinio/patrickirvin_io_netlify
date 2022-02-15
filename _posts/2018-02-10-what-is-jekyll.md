@@ -1,15 +1,14 @@
 ---
+layout: post
 title: What is Jekyll?
-date: 2018-02-10 00:00:00 Z
 tags:
 - Jekyll
 - Development
-layout: post
 featured_image_thumbnail: 
-featured_image: assets/images/posts/2018/9.jpg
+featured_image: assets/images/thumbnail_img_0531.jpg
 author: nancy
----
 
+---
 No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
 
 {% include image-wide.html imageurl="/assets/images/thumbnail_img_0531.jpg?nf_resize=fit&w=200#right" title="Kayak" %}Sick of dealing with hosting companies? GitHub Pages are powered by Jekyll, so you can easily deploy your site using GitHub for free-custom domain name and all.
