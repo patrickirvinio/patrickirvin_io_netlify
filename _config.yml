@@ -8,19 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Curious
-description: Bold Theme For Brave People
+name: Late Night Dev
+description: patrickirvin.io Developer Blog
 site_description: Welcome to my blog. It features topics such as fashion, architecture,
   travel & design. This blog is about finding balance in life, living with purpose,
   having fun, and doing what you love.
 logo: 
 favicon: assets/images/favicon.ico
 baseurl: 
-production_url: https://curious-jekyll.netlify.com/
+production_url: https://patrickirvin.io/
 disqus: justgoodthemes
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 ga_analytics: 
-email: youremail@email.com
+email: patrick@patrickirvin.io
 contact_page_description: Forma theme comes with a contact form built-in. You can
   use this form with Formspree service and get up to 50 submissions for free. Also,
   you can easily switch to another service if you want.
