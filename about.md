@@ -1,15 +1,15 @@
 ---
-title: About
 layout: page
+title: About
 featured_image: "/assets/images/pages/about.jpeg"
+
 ---
+Welcome to Late Night Dev.  I currently work as a Senior Solutions Architect and enjoy living away from the hustle and bustle on a farm in Palmetto, Alabama.  
 
-Daniel Bennett is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
+My career path was a little different than the norm - I began work as a professional firefighter in my twenties after college and did consulting on the side.  While in this stage of my career I helped to start one of the first emergency services online communities in the 1990's designing and hosting the forum site for The Emergency Grapevine. Eventually this led to working full time in web development for JVC. Since those days I have worked with several areas of tech from web programming to data technologies which helped me develop the skillsets to be and early adopter of DevOps practices with a publishing company.  After moving to a Fortune 500 company to lead DevOps efforts I have since moved to the Enterprise architecture team and work with all elements of the enterprise to help guide and enable a corporate architecture and practices which enable growth and speed in today's fast moving tech world.
 
-His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
+Outside of tech I enjoy many hobbies such as flying, electronics, woodworking, kayaking, and my favorite hobby of being outdoors with my family!  I love to share many of these activities in my posts - everyone needs a pleasant break from tech to keep things in balance.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+_Thank You for reading!_
 
-As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+Patrick Irvin
