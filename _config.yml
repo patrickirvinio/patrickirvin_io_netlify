@@ -10,9 +10,7 @@ collections:
     output: true
 name: Late Night Dev
 description: patrickirvin.io Developer Blog
-site_description: Welcome to my blog. It features topics such as fashion, architecture,
-  travel & design. This blog is about finding balance in life, living with purpose,
-  having fun, and doing what you love.
+site_description: Welcome to patrickirvin.io. My blog features highlights I encounter in my daily work as a Solution Architect, some interesting projects I work on outside of my career, some photography, some flying, and lots of outdoors.
 logo: 
 favicon: assets/images/favicon.ico
 baseurl: 
@@ -21,9 +19,7 @@ disqus: justgoodthemes
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 ga_analytics: 
 email: patrick@patrickirvin.io
-contact_page_description: Forma theme comes with a contact form built-in. You can
-  use this form with Formspree service and get up to 50 submissions for free. Also,
-  you can easily switch to another service if you want.
+contact_page_description: Please submits comments and questions using the form below.
 thankyou_page_description: Your message has been successfully sent. We will contact
   you very soon!
 sidebar_widget_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -34,7 +30,7 @@ sidebar_widget_address: 123 Some Street, Some City, AA 12345
 sidebar_widget_phone: "+123 112 23445"
 twitter: JustGoodThemes
 facebook: username
-github: JustGoodThemes
+github: patrickirvinio
 codepen: username
 dribbble: username
 medium: "@username"
