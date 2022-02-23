@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-featured_image: "/assets/images/pages/about.jpeg"
+featured_image: "/assets/images/alaskalake.jpg"
 
 ---
 Welcome to Late Night Dev.  I currently work as a Senior Solutions Architect and enjoy living away from the hustle and bustle on a farm in Palmetto, Alabama.  
