@@ -6,7 +6,7 @@ tags:
 - " Hiking"
 layout: post
 featured_image_thumbnail: 
-featured_image: assets/images/posts/2019/1.jpg
+featured_image: assets/images/posts/2021/dismals.jpg
 author: patrick
 featured: true
 hidden: true
