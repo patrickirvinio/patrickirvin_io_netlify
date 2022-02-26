@@ -1,17 +1,17 @@
 ---
-title: What Is Photography and What It Means To Me
-date: 2019-01-10 00:00:00 Z
+title: Dismals Canyon Beauty
+date: 2021-10-10 14:00:00 -0500
 tags:
 - Photography
-- Tips
+- " Hiking"
 layout: post
 featured_image_thumbnail: 
-featured_image: assets/images/posts/2019/1.jpg
-author: daniel
+featured_image: assets/images/posts/2021/dismals.jpg
+author: patrick
 featured: true
 hidden: true
----
 
+---
 **Photography** is the science, art and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.
 
 <blockquote class="alignleft">“The camera is an instrument that teaches people how to see without a camera.” <cite>— Dorothea Lange</cite></blockquote>
