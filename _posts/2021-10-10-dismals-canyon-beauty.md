@@ -30,7 +30,7 @@ I have included a few photos from Dismals below along with a map and park inform
 </thead>
  <tbody>
   <tr>
-   <td>Website</td>
+   <td>[Website]("https://www.dismalscanyon.com/")</td>
    <td>
     https://www.dismalscanyon.com/
    </td>
