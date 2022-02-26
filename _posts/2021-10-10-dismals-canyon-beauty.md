@@ -30,7 +30,7 @@ I have included a few photos from Dismals below along with a map and park inform
 * [YouTube](https://www.youtube.com/channel/UCh_tzffMku9waABduTE_G2Q) 
 * [Directions and Maps](https://www.dismalscanyon.com/maps)
 
-{% include image-wide.html imageurl="/assets/images/galleries/dismals2021/8.jpeg" title="Dismal Canyon Steps" caption="Moss Covered path in Dismals Canyon" %}
+{% include image-wide.html imageurl="/assets/images/galleries/dismals2021/8.jpeg" title="Dismal Canyon Steps" caption="Moss Covered pathway in Dismals Canyon" %}
 
 {% include image-full.html imageurl="/assets/images/galleries/dismals2021/5.jpeg" title="Dismals Canyon" caption="Dismals Canyon" %}
 
