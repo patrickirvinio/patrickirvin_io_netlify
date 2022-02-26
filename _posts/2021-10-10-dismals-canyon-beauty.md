@@ -24,11 +24,11 @@ I have included a few photos from Dismals below along with a map and park inform
 
 ### Dismals Canyon Information
 
-[Website](https://www.dismalscanyon.com/)
-[Facebook](https://www.facebook.com/dismalscanyon/)
-[Instagram](http://instagram.com/dismalscanyon)
-[YouTube](https://www.youtube.com/channel/UCh_tzffMku9waABduTE_G2Q)
-[Directions and Maps](https://www.dismalscanyon.com/maps)
+* [Website](https://www.dismalscanyon.com/) 
+* [Facebook](https://www.facebook.com/dismalscanyon/) 
+* [Instagram](http://instagram.com/dismalscanyon) 
+* [YouTube](https://www.youtube.com/channel/UCh_tzffMku9waABduTE_G2Q) 
+* [Directions and Maps](https://www.dismalscanyon.com/maps)
 
 {% include image-wide.html imageurl="/assets/images/galleries/dismals2021/8.jpeg" title="Dismal Canyon Steps" caption="Moss Covered path in Dismals Canyon" %}
 
