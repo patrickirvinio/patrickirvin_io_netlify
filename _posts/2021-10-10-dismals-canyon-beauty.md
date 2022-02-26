@@ -1,6 +1,6 @@
 ---
 title: Dismals Canyon Beauty
-date: 2021-10-10 14:00:00 -0500
+date: 2021-10-10T14:00:00.000-05:00
 tags:
 - Photography
 - " Hiking"
@@ -22,7 +22,7 @@ I would suggest good waterproof hiking shoes if the weather is cooler so that yo
 
 I have included a few photos from Dismals below along with a map and park information:
 
-## Dismals Canyon Information
+### Dismals Canyon Information
 
 [Website](https://www.dismalscanyon.com/)
 [Facebook](https://www.facebook.com/dismalscanyon/)
