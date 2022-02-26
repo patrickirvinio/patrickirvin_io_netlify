@@ -22,8 +22,8 @@ I have included a few photos from Dismals below along with a map and park inform
 
 <blockquote class="alignleft">“Dismals Canyon is one of only a few places where insects called dismalites ([_Orfelia fultoni_](https://en.wikipedia.org/wiki/Orfelia_fultoni "Orfelia fultoni"), a distant relative of [_Arachnocampa_](https://en.wikipedia.org/wiki/Arachnocampa "Arachnocampa")) can be found. The larval forms of these flies emit a bright blue-green light to attract food and mates. They cover the canyon wall.[\[2\]](https://en.wikipedia.org/wiki/Dismals_Canyon#cite_note-dismals-2)” <cite>— [https://en.wikipedia.org/wiki/Dismals_Canyon](https://en.wikipedia.org/wiki/Dismals_Canyon "https://en.wikipedia.org/wiki/Dismals_Canyon")</cite></blockquote>
 
-{% include image-wide.html imageurl="/assets/images/posts/2018/1.jpeg" title="Film Photo" caption="This wide image with caption" %}
+{% include image-wide.html imageurl="/assets/images/galleries/dismals/8.jpeg" title="Dismal Canyon Steps" caption="Moss Covered path in Dismals Canyon" %}
 
-{% include image-full.html imageurl="/assets/images/posts/2018/23.jpeg" title="Film Photo" caption="This full-width image with caption" %}
+{% include image-full.html imageurl="/assets/images/galleries/dismals/5.jpeg" title="Dismals Canyon" caption="Dismals Canyon" %}
 
-> “Black and white is abstract, color is not. Looking at a black and white photograph, you are already looking at a strange world.” <cite>– Joel Sternfeld</cite>
+> “View of sandstone wall in Dismals Canyon.” <cite>– Patrick Irvin</cite>
