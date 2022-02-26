@@ -24,13 +24,14 @@ I have included a few photos from Dismals below along with a map and park inform
 
 ## Dismals Canyon Information
 
+[Website](https://www.dismalscanyon.com/)
 <table>
 <caption>Dismals Links</caption>
 <thead>
 </thead>
  <tbody>
   <tr>
-   <td>[Website](https://www.dismalscanyon.com/)</td>
+   <td><a href="https://www.dismalscanyon.com/" alt="Dismals Canyon Website">Website</a></td>
    <td>
     https://www.dismalscanyon.com/
    </td>
