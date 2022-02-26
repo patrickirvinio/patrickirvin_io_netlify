@@ -14,13 +14,45 @@ hidden: true
 ---
 ## Hiking Dismals Canyon - Alabama
 
-<blockquote class="alignleft">“Dismals Canyon is one of only a few places where insects called dismalites ([_Orfelia fultoni_](https://en.wikipedia.org/wiki/Orfelia_fultoni "Orfelia fultoni"), a distant relative of [_Arachnocampa_](https://en.wikipedia.org/wiki/Arachnocampa "Arachnocampa")) can be found. The larval forms of these flies emit a bright blue-green light to attract food and mates. They cover the canyon wall.[\[2\]](https://en.wikipedia.org/wiki/Dismals_Canyon#cite_note-dismals-2)” <cite>— [https://en.wikipedia.org/wiki/Dismals_Canyon](https://en.wikipedia.org/wiki/Dismals_Canyon "https://en.wikipedia.org/wiki/Dismals_Canyon")</cite></blockquote>
+<blockquote class="alignleft">“Dismals Canyon is one of only a few places where insects called dismalites (_Orfelia fultoni_), a distant relative of _Arachnocampa_ can be found. The larval forms of these flies emit a bright blue-green light to attract food and mates. They cover the canyon wall.” <cite>— Wikipedia</cite></blockquote>
 
 **Dismals Canyon** is a beautiful sandstone gorge located in Franklin County, Alabama.  Know for its dismalites (Orfelia fultoni, a distant relative of Arachnocampa), the national landmark is spectacular to hike day or night.  You will need to schedule with the park to do the night tours.
 
 I would suggest good waterproof hiking shoes if the weather is cooler so that you can make all of the water crossings without worrying about wet feet.
 
-I have included a few photos from Dismals below along with a map and park information.
+I have included a few photos from Dismals below along with a map and park information:
+
+## Dismals Canyon Information
+
+<table>
+<caption>Dismals Links</caption>
+<thead>
+</thead>
+ <tbody>
+  <tr>
+   <td>Website</td>
+   <td>
+    https://www.dismalscanyon.com/
+   </td>
+  </tr>
+  <tr>
+   <td>Facebook</td>
+   <td>https://www.facebook.com/dismalscanyon/</td>
+  </tr>
+  <tr>
+   <td>Instagram</td>
+   <td>http://instagram.com/dismalscanyon</td>
+  </tr>
+  <tr>
+   <td>YouTube</td>
+   <td>https://www.youtube.com/channel/UCh_tzffMku9waABduTE_G2Q</td>
+  </tr>
+  <tr>
+   <td>Directions and Maps</td>
+   <td>: https://www.dismalscanyon.com/maps</td>
+  </tr>
+ </tbody>
+</table>
 
 {% include image-wide.html imageurl="/assets/images/galleries/dismals2021/8.jpeg" title="Dismal Canyon Steps" caption="Moss Covered path in Dismals Canyon" %}
 
