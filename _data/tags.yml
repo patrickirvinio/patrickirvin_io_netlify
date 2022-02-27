@@ -10,7 +10,3 @@ tips:
   name: tips
   description: A series of short development tips.
   cover: /assets/images/covers/3.jpg
-hiking:
-  name: hiking
-  description: Hiking and outdoors related posts.
-  cover: /assets/images/covers/5.jpg
