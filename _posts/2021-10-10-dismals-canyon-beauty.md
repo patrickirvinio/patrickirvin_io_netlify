@@ -7,7 +7,7 @@ tags:
 layout: post
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2021/dismals.jpg
-author: Patrick Irvin
+author: patrick
 featured: true
 hidden: true
 
