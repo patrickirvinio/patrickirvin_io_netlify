@@ -15,28 +15,25 @@ logo:
 favicon: assets/images/favicon.ico
 baseurl: 
 production_url: https://patrickirvin.io/
-disqus: justgoodthemes
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+disqus: patrickirvinio
+mailchimp_url: #"//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 ga_analytics: 
 email: patrick@patrickirvin.io
 contact_page_description: Please submits comments and questions using the form below.
-thankyou_page_description: Your message has been successfully sent. We will contact
-  you very soon!
-sidebar_widget_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Donec sed lacus id tortor iaculis iaculis dignissim eget justo. Maecenas posuere
-  eros nisl, ut pharetra turpis faucibus.
-sidebar_widget_email: blogin [at] gmail.com
-sidebar_widget_address: 123 Some Street, Some City, AA 12345
-sidebar_widget_phone: "+123 112 23445"
-twitter: JustGoodThemes
-facebook: username
+thankyou_page_description: Your message has been successfully sent. Thank you for visiting my site!
+sidebar_widget_description: Welcome to Late Night Dev - software development, architecture and some other adventures.
+sidebar_widget_email: patrick@patrickirvin.io
+sidebar_widget_address: Palmetto, AL 
+sidebar_widget_phone: #"+123 112 23445"
+twitter: #JustGoodThemes
+facebook: patrick.irvin
 github: patrickirvinio
-codepen: username
-dribbble: username
-medium: "@username"
-instagram: username
-pinterest: username
-linkedin: admin@pcient.com
+codepen: #username
+dribbble: #username
+medium: #"@username"
+instagram: aviator68
+pinterest: #username
+linkedin: pirvin
 navigation:
 - text: About
   url: "/about/"
