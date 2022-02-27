@@ -1,12 +1,16 @@
 photography:
   name: photography
-  description: Some of the greatest words ever spoken.
+  description: Imges from my explorations.
   cover: /assets/images/covers/1.jpg
 design:
-  name: design
-  description: false
+  name: development
+  description: General oftware development related posts
   cover: /assets/images/covers/2.jpg
 tips:
   name: tips
-  description: A series of short stories that make you think.
+  description: A series of short development tips.
   cover: /assets/images/covers/3.jpg
+hiking:
+  name: hiking
+  description: Hiking and outdoors related posts.
+  cover: /assets/images/covers/5.jpg
