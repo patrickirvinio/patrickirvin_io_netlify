@@ -3,7 +3,7 @@ title: Dismals Canyon Beauty
 date: 2021-10-10T14:00:00.000-05:00
 tags:
 - Photography
-- " Hiking"
+- Hiking
 layout: post
 featured_image_thumbnail: 
 featured_image: assets/images/posts/2021/dismals.jpg
