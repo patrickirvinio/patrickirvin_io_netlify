@@ -1,5 +1,5 @@
 ---
-title: dotnet new templates?
+title: dotnet new templates
 date: 2022-02-26T00:00:00.000-06:00
 tags:
 - .Net
