@@ -7,3 +7,5 @@ category: Christian
 > ![patrickirvin.io](/assets/images/davidandgoliath1960_poster209x209.png)
 >
 > David and Goliath -1960
+
+![patrickirvin.io](/assets/images/pureretro_category_christian.png)
