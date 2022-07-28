@@ -38,7 +38,7 @@ navigation:
 - text: About
   url: "/about/"
 - text: Roku Channel
-  url: "/movie-page/"
+  url: "/roku/"
 - text: Style Guide
   url: "/style-guide/"
 - text: Contact Me
