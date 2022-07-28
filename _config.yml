@@ -44,6 +44,8 @@ linkedin: admin@pcient.com
 navigation:
 - text: About
   url: "/about/"
+- text: Roku Channel
+  url: "/movie-page/"
 - text: Style Guide
   url: "/style-guide/"
 - text: Contact Me
