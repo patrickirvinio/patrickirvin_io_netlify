@@ -20,3 +20,5 @@ fields:
   description: Movie/TV Category
   showOnly:
     field: category
+pages:
+- Movie Page.md
