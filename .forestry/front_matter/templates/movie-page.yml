@@ -1,4 +1,22 @@
 ---
 label: Movie Page
 hide_body: false
-fields: []
+fields:
+- name: category
+  type: select
+  default: Christian
+  config:
+    required: false
+    options:
+    - Christian
+    - Western
+    - SciFi
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Movie/TV Category
+  showOnly:
+    field: category
